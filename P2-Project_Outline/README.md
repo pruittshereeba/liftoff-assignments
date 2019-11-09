@@ -19,6 +19,6 @@ HTML
 CSS
 Springboot MVC
 ### What I'll Have to Learn
-I will need to learn how to more skillfully use CSS to design my page to make it more appealling to a user. 
+Learn how to integrate google maps or some kind of interactive map to my app, to make it easier for the user to navigate to different locations they may want to travel to.
 ### Project Tracker
 https://trello.com/b/HZ0mk0w8/travel
