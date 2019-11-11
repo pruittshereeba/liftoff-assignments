@@ -18,4 +18,4 @@ https://trello.com/b/HZ0mk0w8/travel
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/pruittshereeba/iconicTravel.git
